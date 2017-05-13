@@ -1,0 +1,14 @@
+{
+"name": "Amenaza Volcanica Galeras",
+"version": "1.0.0",
+"description": "Amenaza VOlcanica Galeras",
+"attribution": "OSM",
+"type": "baselayer",
+"color": "#FFFFFF",
+"format": "png",
+"minzoom": "7",
+"maxzoom": "13",
+"bounds": "-78.695414,0.616970,-76.403465,2.064060",
+"scale": "1",
+"profile": "mercator"
+}
